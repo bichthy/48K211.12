@@ -1,2 +1,2 @@
-# 48K211.12_PhanTichThietKeHeThongThongTin
+# 48K211.12
 Môn phân tích và thiết kế hệ thống thông tin
